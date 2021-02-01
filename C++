@@ -8,4 +8,6 @@
 
 5.int sumA = accumulate(A.begin(), A.end(), 0)
 
+6.ret.back().push_back(node->val)
+
 
