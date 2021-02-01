@@ -5,3 +5,7 @@
 3.  emplace与insert的区别（C++ 11）
 
 4.*max_element(vector.begin(), vector.end())
+
+5.int sumA = accumulate(A.begin(), A.end(), 0)
+
+
