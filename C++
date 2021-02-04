@@ -12,7 +12,10 @@
     res.push_back(vector<int> ());
     ret.back().push_back(node->val)
     
-7.  
+7.  bool cmp(int a, int b) {return a > b;
+    sort(v.begin(), v.end(), cmp);
+
+8.  
   
 
 
