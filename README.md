@@ -11,4 +11,13 @@
 
 [【从零开始的数据结构】第一棵树](http://mp.weixin.qq.com/s?__biz=MzkyMTI2MTk0Ng==&mid=2247483681&idx=1&sn=4885772a041b4967a2a6a91e9cb20144&chksm=c1870334f6f08a2239d51e9aa633caafed112b99d9d6380565f9d0d2f4fd4d0c0cd7fb4b78f1&scene=21#wechat_redirect)
 
+[【从零开始的数据结构】大概是代码注释最详细的二叉树遍历笔记](http://mp.weixin.qq.com/s?__biz=MzkyMTI2MTk0Ng==&mid=2247483681&idx=2&sn=04dcd9eb7129e37c50a3d2814a4162da&chksm=c1870334f6f08a22600330b6ca660085af2c5ed75130796fd5b3effe51c77f91a0b7854f8e88&scene=21#wechat_redirect)
+
+[【从零开始的数据结构】如何使用中序遍历序列和后序遍历序列构造二叉树？](http://mp.weixin.qq.com/s?__biz=MzkyMTI2MTk0Ng==&mid=2247483681&idx=3&sn=1bb1b66e3d8a56b6e14938a7b1150d8f&chksm=c1870334f6f08a228ce600fc2835300d75283ba11d6a37dd3334f1e03305a345b7d1e66084b6&scene=21#wechat_redirect)
+
+[【从零开始的数据结构】简单聊一聊线索二叉树](http://mp.weixin.qq.com/s?__biz=MzkyMTI2MTk0Ng==&mid=2247483681&idx=4&sn=f41cb2356e10c99ebe02f8b34b69c964&chksm=c1870334f6f08a225903a5f61b9580792bc0b512d2f6bc5c1dd430abd1a272e0c4b63479e32c&scene=21#wechat_redirect)
+
+[【从零开始的数据结构】简单聊一聊二叉排序树](http://mp.weixin.qq.com/s?__biz=MzkyMTI2MTk0Ng==&mid=2247483681&idx=5&sn=84a2d4c7985bc0d2eac224842939fd63&chksm=c1870334f6f08a22a8c1f556655c8c4d122e2aa466d754ee5c8f7f88fb7ecc203d1ec99a027a&scene=21#wechat_redirect)
+
+
 
