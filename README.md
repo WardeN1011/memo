@@ -19,5 +19,12 @@
 
 [【从零开始的数据结构】简单聊一聊二叉排序树](http://mp.weixin.qq.com/s?__biz=MzkyMTI2MTk0Ng==&mid=2247483681&idx=5&sn=84a2d4c7985bc0d2eac224842939fd63&chksm=c1870334f6f08a22a8c1f556655c8c4d122e2aa466d754ee5c8f7f88fb7ecc203d1ec99a027a&scene=21#wechat_redirect)
 
+[【从零开始的数据结构】图的基础](http://mp.weixin.qq.com/s?__biz=MzkyMTI2MTk0Ng==&mid=2247483695&idx=1&sn=5d432096822b7d1506b96d06d6bbaa4f&chksm=c187033af6f08a2c885204f2da93c0563d087e559a894dcf5fb8d944049fa710537f84d9076c&scene=21#wechat_redirect)
+
+[【从零开始的数据结构】图的存储](http://mp.weixin.qq.com/s?__biz=MzkyMTI2MTk0Ng==&mid=2247483695&idx=2&sn=ccd0f404c9ad3ec41e78b00a1b44c376&chksm=c187033af6f08a2c8564d262a3acc09a36b645ddcd86ed01e7700b657a4521b7dea97627d10d&scene=21#wechat_redirect)
+
+[【从零开始的数据结构】BFS和DFS算法笔记以岛屿数量问题为例](http://mp.weixin.qq.com/s?__biz=MzkyMTI2MTk0Ng==&mid=2247483695&idx=3&sn=ea8953c5b4c70c757c1962af72f275ee&chksm=c187033af6f08a2cbc343fad81a5014f44c200cfe205fdd88bd102ccb34ea02b3be971058eaf&scene=21#wechat_redirect)
+
+
 
 
