@@ -26,7 +26,7 @@
 [【从零开始的数据结构】BFS和DFS算法笔记以岛屿数量问题为例](http://mp.weixin.qq.com/s?__biz=MzkyMTI2MTk0Ng==&mid=2247483695&idx=3&sn=ea8953c5b4c70c757c1962af72f275ee&chksm=c187033af6f08a2cbc343fad81a5014f44c200cfe205fdd88bd102ccb34ea02b3be971058eaf&scene=21#wechat_redirect)
 
 
-# 从零开始的算法指南
+# 从零开始的算法指南(持续更新)
 
 [【从零开始的算法指南】算法入门需要了解的一些前置知识](http://mp.weixin.qq.com/s?__biz=MzkyMTI2MTk0Ng==&mid=2247483704&idx=1&sn=7b59e2fc3c8e16b8bd2118c5c7b96e40&chksm=c187032df6f08a3b62aeaa203796dbb91f1ef22475a6c5f292a76da83f15c6047e9e61817d5a&scene=21#wechat_redirect)
 
