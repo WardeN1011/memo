@@ -26,5 +26,15 @@
 [【从零开始的数据结构】BFS和DFS算法笔记以岛屿数量问题为例](http://mp.weixin.qq.com/s?__biz=MzkyMTI2MTk0Ng==&mid=2247483695&idx=3&sn=ea8953c5b4c70c757c1962af72f275ee&chksm=c187033af6f08a2cbc343fad81a5014f44c200cfe205fdd88bd102ccb34ea02b3be971058eaf&scene=21#wechat_redirect)
 
 
+# 从零开始的算法指南
+
+[【从零开始的算法指南】算法入门需要了解的一些前置知识](http://mp.weixin.qq.com/s?__biz=MzkyMTI2MTk0Ng==&mid=2247483704&idx=1&sn=7b59e2fc3c8e16b8bd2118c5c7b96e40&chksm=c187032df6f08a3b62aeaa203796dbb91f1ef22475a6c5f292a76da83f15c6047e9e61817d5a&scene=21#wechat_redirect)
+
+[【从零开始的算法指南】聊一聊最熟悉的顺序查找和折半查找](http://mp.weixin.qq.com/s?__biz=MzkyMTI2MTk0Ng==&mid=2247483704&idx=2&sn=e3fd3f1cbf1628aeca7bc9a055b30610&chksm=c187032df6f08a3b9ce4be2299535fa17ad4265ae3f65eff98b6722d5adc3f6b4bbb7e0baf29&scene=21#wechat_redirect)
+
+[【从零开始的算法指南】排序中的白银算法——插入排序](http://mp.weixin.qq.com/s?__biz=MzkyMTI2MTk0Ng==&mid=2247483704&idx=3&sn=c3c19878a90962e6db81415910997b7f&chksm=c187032df6f08a3b93f8f8b41d4a4923990d8407d92cb9dc13019df03bdf738a7152abc6729b&scene=21#wechat_redirect)
+
+
+
 
 
