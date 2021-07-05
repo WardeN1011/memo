@@ -34,6 +34,14 @@
 
 [【从零开始的算法指南】排序中的白银算法——插入排序](http://mp.weixin.qq.com/s?__biz=MzkyMTI2MTk0Ng==&mid=2247483704&idx=3&sn=c3c19878a90962e6db81415910997b7f&chksm=c187032df6f08a3b93f8f8b41d4a4923990d8407d92cb9dc13019df03bdf738a7152abc6729b&scene=21#wechat_redirect)
 
+[【从零开始的算法指南】大概是代码注释最详细的希尔排序笔记](http://mp.weixin.qq.com/s?__biz=MzkyMTI2MTk0Ng==&mid=2247483717&idx=4&sn=f6aafd03d5a700afac83755fcedb1bf1&chksm=c1870350f6f08a460d6dccd86bf8e1fafc861d7781c715cffac6eb650ed44dc1b545cf5c62e6&scene=21#wechat_redirect)
+
+[【从零开始的算法指南】大概是代码注释最详细的冒泡排序笔记](http://mp.weixin.qq.com/s?__biz=MzkyMTI2MTk0Ng==&mid=2247483717&idx=3&sn=6603726a4fdc863449869f4cacd90a9d&chksm=c1870350f6f08a46a9cd1a035291ae23a493e03b0328a9de7a699b37d346b552f0f13f79ea00&scene=21#wechat_redirect)
+
+[【从零开始的算法指南】大概是代码注释最详细的简单选择排序笔记](http://mp.weixin.qq.com/s?__biz=MzkyMTI2MTk0Ng==&mid=2247483717&idx=2&sn=63edbe77e09b76163a7d7d886fc82b35&chksm=c1870350f6f08a4675aaf867c7e46a207661bddc59770533e2dcffea55461333127dfe961f98&scene=21#wechat_redirect)
+
+[【从零开始的算法指南】大概是代码注释最详细的快速排序笔记](http://mp.weixin.qq.com/s?__biz=MzkyMTI2MTk0Ng==&mid=2247483717&idx=1&sn=fba66b90cfbd23032ab4d70ec9b0a697&chksm=c1870350f6f08a469bf5a661a22d7a4c244a224eaccf753aaad2313bd49f14661ba5eaf6fb77&scene=21#wechat_redirect)
+
 
 
 
